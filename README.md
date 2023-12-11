@@ -17,7 +17,8 @@ Separated Code Editors: Three distinct boxes for HTML, CSS, and JavaScript, allo
 Real-Time Preview: Instantly view the output of your code in a separate section of the screen.
 
 # Installation :
-Clone the repository: git clone https://github.com/your-username/live-code-editor.git
+Clone the repository
+
 Navigate to the project directory: cd live-code-editor
 
 
