@@ -6,6 +6,21 @@ Welcome to the Live Code Editor, a web-based code editor for HTML, CSS, and Java
 
 #Navigate using the top navigation bar with the following options:
 
+
+![image](https://github.com/Ambikadobhal/Live-code-editor/assets/141350048/df8f6ef4-5b53-41f1-a661-4406d4ce24c5)
+
+
+
+
+
+
+
+
+
+
+
+
+
 Home: Return to the home screen.
 Feedback: Share your thoughts or report issues.
 Source Code: View the project's source code.
