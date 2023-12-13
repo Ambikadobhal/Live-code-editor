@@ -17,7 +17,6 @@ About Us: Learn more about the project and the team.
 ![image](https://github.com/Ambikadobhal/Live-code-editor/assets/141350048/9df94602-fd40-43ef-99ce-dffc951f245e)
 
 
-#  in this picture you can see how the code was written 
 
 ![image](https://github.com/Ambikadobhal/Live-code-editor/assets/141350048/1c645205-e71f-4e82-93b7-2adda79161f3)
 
